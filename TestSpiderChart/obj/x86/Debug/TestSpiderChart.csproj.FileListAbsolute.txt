@@ -1,0 +1,14 @@
+C:\MyProjects\SpiderChart\TestSpiderChart\bin\Debug\TestSpiderChart.exe
+C:\MyProjects\SpiderChart\TestSpiderChart\bin\Debug\TestSpiderChart.pdb
+C:\MyProjects\SpiderChart\TestSpiderChart\bin\Debug\WpfCharts.dll
+C:\MyProjects\SpiderChart\TestSpiderChart\bin\Debug\WpfCharts.pdb
+C:\MyProjects\SpiderChart\TestSpiderChart\obj\x86\Debug\TestSpiderChart.csprojResolveAssemblyReference.cache
+C:\MyProjects\SpiderChart\TestSpiderChart\obj\x86\Debug\MainWindow.baml
+C:\MyProjects\SpiderChart\TestSpiderChart\obj\x86\Debug\MainWindow.g.cs
+C:\MyProjects\SpiderChart\TestSpiderChart\obj\x86\Debug\App.g.cs
+C:\MyProjects\SpiderChart\TestSpiderChart\obj\x86\Debug\TestSpiderChart_MarkupCompile.cache
+C:\MyProjects\SpiderChart\TestSpiderChart\obj\x86\Debug\TestSpiderChart.g.resources
+C:\MyProjects\SpiderChart\TestSpiderChart\obj\x86\Debug\TestSpiderChart.Properties.Resources.resources
+C:\MyProjects\SpiderChart\TestSpiderChart\obj\x86\Debug\TestSpiderChart.csproj.GenerateResource.Cache
+C:\MyProjects\SpiderChart\TestSpiderChart\obj\x86\Debug\TestSpiderChart.exe
+C:\MyProjects\SpiderChart\TestSpiderChart\obj\x86\Debug\TestSpiderChart.pdb
